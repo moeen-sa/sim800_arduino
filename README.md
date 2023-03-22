@@ -1,2 +1,2 @@
-# sim800_arduino
-a simple library for sim800 series modules with arduino
+# calc library
+a simple test library for multipling, adding and ....
